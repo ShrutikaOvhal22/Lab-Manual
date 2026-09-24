@@ -18,6 +18,9 @@
     <ClCompile Include="Experiment.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Experinment1.3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="Experiment1.2cpp" />
