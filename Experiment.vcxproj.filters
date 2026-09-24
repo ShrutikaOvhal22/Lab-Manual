@@ -24,6 +24,9 @@
     <ClCompile Include="Experinment 2..1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Experinment2.2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="Experiment1.2cpp" />
